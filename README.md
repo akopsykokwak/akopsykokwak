@@ -8,5 +8,5 @@ I'm Camille, a french JS developer who is passionate about web and mobile techno
 - 🍵 tea over coffee
 
 ## Links
-- [Twitter] (https://twitter.com/cmllecn)
-- [LinkedIn] (https://www.linkedin.com/in/camillecoin/)
+- [Twitter](https://twitter.com/cmllecn)
+- [LinkedIn](https://www.linkedin.com/in/camillecoin/)
