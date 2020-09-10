@@ -7,6 +7,6 @@ I'm Camille, a french JS developer who is passionate about web and mobile techno
 - 🌱 Currently learning Swift
 - 🍵 tea over coffee
 
-## Links
+## Let's get in touch!
 - [Twitter](https://twitter.com/cmllecn)
 - [LinkedIn](https://www.linkedin.com/in/camillecoin/)
