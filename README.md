@@ -4,7 +4,7 @@ I'm Camille, a french JS developer who is passionate about web and mobile techno
 
 ## About me
 - ⚒️ React / Node.js, MySQL, Firebase
-- 🌱 Currently learning Swift
+- 🌱 Currently developing a FFXIV bot for discord!
 - 🍵 tea over coffee
 
 ## Let's get in touch!
